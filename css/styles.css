@@ -14,7 +14,10 @@ h1{
 }
 
 .barra{
-    background-color: rgb(143, 232, 238);
+    h1{
+        color: rgb(143, 232, 238);}
+    margin: 0%;
+    
 }
 
 .cajaBorde{
@@ -22,4 +25,5 @@ h1{
     border-color: rgb(143, 232, 238);
     height: 30vh;
 }
+
 
